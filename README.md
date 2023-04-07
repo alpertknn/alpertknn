@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
 </div>
 <div align="left">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='https://www.linkedin.com/in/alper-tekinn/' height='40'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg' alt='https://www.kaggle.com/alpertekiin' height='40'>
+  <a href="(https://www.linkedin.com/in/alper-tekinn)"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40'></a>
+  <a href="(https://www.kaggle.com/alpertekiin)"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" height='40'></a>
 </div>
 
 ###
