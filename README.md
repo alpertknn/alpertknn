@@ -20,8 +20,11 @@
   <p align="left"> Python, Data Visualisation, Machine Learning </p>
 </div>
 <div align="left">
-  <a href="https://www.linkedin.com/in/alper-tekinn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40'></a>
-  <a href="https://www.kaggle.com/alpertekiin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" height='40'></a>
+  <p align="left"> Here you can find my social accounts; </p>
+</div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/alper-tekinn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='20'></a>
+  <a href="https://www.kaggle.com/alpertekiin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" height='20'></a>
   
 </div>
 
