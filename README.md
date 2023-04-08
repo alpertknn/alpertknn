@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <p align="left"> Python,Data Visualisation, Machine Learning </p>
+  <p align="left"> Python, Data Visualisation, Machine Learning </p>
 </div>
 <div align="left">
   <a href="https://www.linkedin.com/in/alper-tekinn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40'></a>
