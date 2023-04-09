@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Bs degree in Computer Engineering at Hasan Kalyoncu University <br>📚  Interested in Data Science, Analytics and Backend Development. Currently learning Django</p>
+<p align="left">✨ Bs degree in Computer Engineering at Hasan Kalyoncu University <br>📚  Interested in Data Science, Analytics and Backend Development.</p>
 
 ###
 
