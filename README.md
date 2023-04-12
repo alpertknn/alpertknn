@@ -33,7 +33,8 @@
 
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=alpertknn&border_radius=4.1)](https://git.io/streak-stats)
+
+   <img src="(https://streak-stats.demolab.com?user=alpertknn&border_radius=4.1)](https://git.io/streak-stats)" height="150" alt="languages graph"  />
 </div>
 
 ###
