@@ -1,9 +1,5 @@
 ###
 
-<p align="left">Hey 👋,My name is Alper</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
